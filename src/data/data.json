@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Luis Miguel LUCATTI",
+    "nac": "27/12/1988",
+    "direccion": "P. Blanqui 693, Alta Gracia, Córdoba-Argentina",
+    "tel": "+54 9 351 766-3425",
+    "e-Mail": "luizitho36@hotmail.com"
+  },
+
+  {
+    "id": 2,
+    "Nivel Secundario": "COMPLETO",
+    "Especialización": "Gestión de las Organizaciones",
+    "Escuela": "IPEM 298 Maestro Rodolfo V. Butori. Alta Gracia-Córdoba"
+  },
+
+  {
+    "id": 3,
+    "Español": "Natal",
+    "Inglés": "Intermedio (1º y 2º año en Oxford, Alta Gracia)"
+  },
+
+  {
+    "id": 4,
+    "EXPERIENCIA LABORAL": "V/N Global BPO, Córdoba.",
+    "Rol": "Asesor telefónico, Claro Argentina.",
+    "Período": "De 07/2011 a 05/2024",
+    "Teléfono RRHH, Brenda": "+54 9 351 384 3906",
+    "Teléfono RRHH, Noe": "+54 9 351 634 6465"
+  },
+
+  {
+    "id": 5,
+    "2013-2015": "Coaching Ontológico Profesional con Orientación Empresarial. Co-Crear Buenos Aires, Argentina.",
+
+    "2020-Actualidad": "Programación Full Stack JS con experiencia personal."
+  },
+
+  {
+    "id": 6,
+    "01": "# Html",
+    "02": "# CSS",
+    "03": "# JavaScript",
+    "04": "# Webpack",
+    "05": "# React",
+    "06": "# Redux",
+    "07": "# BOOTSTRAP",
+    "08": "# Git | Github",
+    "09": "# Node.js",
+    "10": "# SQL (con SQLite)",
+    "11": "# Python",
+    "12": "# POO"
+  },
+
+  {
+    "id": 7,
+    "Portfolio": "https://luizitho36.github.io/luis-portfolio/",
+    "Github": "https://github.com/Luizitho36",
+    "Linked In": "https://www.linkedin.com/in/luis-miguel-lucatti-b2b677104/",
+    "Mi proyecto": "https://proyecto-pagina-mortal-kombat.vercel.app/"
+  },
+
+  {
+    "id": 8,
+    "OBJETIVO": "Desarrollarme profesionalmente en un ámbito laboral que me permita aplicar los conocimientos adquiridos con eficiencia y así mismo superarme mediante los nuevos. Dispuesto a ofrecer toda mi capacidad intelectual, física y moral, como así también creatividad e imaginación, para el máximo crecimiento profesional"
+  }
+]
