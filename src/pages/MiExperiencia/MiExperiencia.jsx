@@ -3,7 +3,7 @@ import "../cssStyle.css";
 function MiExperiencia() {
   return (
     <div id="divPrincipalPages">
-      <h2 className="título">{`miExperiencia {`}</h2>
+      <h2 className="título">{`miExperiencia( ){`}</h2>
       <br></br>
       <p className="párrafo1">{`De 09/2007 a 04/2009, Alta Gracia-Córdoba =`}</p>
       <p className="párrafo2">{`AREA 51, Atención al Cliente;`}</p>
@@ -16,7 +16,7 @@ function MiExperiencia() {
       <br></br>
       <b className="párrafo1">{`Actualmente = `} </b>
       <b className="párrafo2">{`buscando trabajo;`} </b>
-      <h2 className="título">{`}`}</h2>
+      <h2 className="título">{`};`}</h2>
     </div>
   );
 }
