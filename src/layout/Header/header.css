@@ -1,0 +1,23 @@
+.Header {
+  background: no-repeat center center;
+  background-size: cover;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+  .Header {
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+    .Header {
+      height: 130px;
+    }
+  }
+  

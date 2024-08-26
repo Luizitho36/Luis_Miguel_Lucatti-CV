@@ -1,3 +1,4 @@
+import "./header.css";
 import ViewHeader from "../../img/header.jpg";
 import { NavLink } from "react-router-dom";
 

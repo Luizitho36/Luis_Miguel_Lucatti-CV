@@ -1,23 +1,36 @@
-import './misDatos.css'
+import '../cssStyle.css'
 
 function MisDatos() {
   return (
-    <div className="divPrincipalMisDatos">
-    <h3 className='Título'>MIS DATOS</h3>
+    <div className="divPrincipalPages">
+    <h3 className='título'>MIS DATOS SON</h3>
+    <b className='variable'>{`const `}</b>
+    <b className='párrafo1'>{`nombre = `}</b>
+    <b className='párrafo2'>{`"Luis Miguel, LUCATTI";`}</b>
     <br></br>
-    <p className='párraf'>{`const nombre = "Luis Miguel, LUCATTI";`}</p>
-    
-    <p className='párraf'>{`var edad = 35;`}</p>
-    
-    <p className='párraf'>{`var direccion = "P. Blanqui 693, Alta Gracia, Córdoba-Argentina";`}</p>
-    
-    <p className='párraf'>{`let tel = "+54 1 351 766-3425";`}</p>
-    
-    <p className='párraf'>{`let e-mail = "luizitho36@hotmail.com";`}</p>
-
-    <p className='párraf'>{`let nivelSecundario = "Completo (2006)";`}</p>
-
-    <p className='párraf'>{`let inglés = "Intermedio (1º y 2º año en Oxford, Alta Gracia)";`}</p>
+    <b className='variable'>{`var `}</b>
+    <b className='párrafo1'>{`edad = `}</b>
+    <b className='párrafo2'>{`35;`}</b>
+    <br></br>
+    <b className='variable'>{`var `}</b>
+    <b className='párrafo1'>{`direccion = `}</b>
+    <b className='párrafo2'>{`"P. Blanqui 693, Alta Gracia";`}</b>
+    <br></br>
+    <b className='variable'>{`let `}</b>
+    <b className='párrafo1'>{`tel = `}</b>
+    <b className='párrafo2'>{`"+54 1 351 766-3425";`}</b>
+    <br></br>
+    <b className='variable'>{`let `}</b>
+    <b className='párrafo1'>{`e-mail = `}</b>
+    <b className='párrafo2'>{`"luizitho36@hotmail.com";`}</b>
+    <br></br>
+    <b className='variable'>{`let `}</b>
+    <b className='párrafo1'>{`nivelSecundario = `}</b>
+    <b className='párrafo2'>{`"Completo (2006)";`}</b>
+    <br></br>
+    <b className='variable'>{`let `}</b>
+    <b className='párrafo1'>{`inglés = `}</b>
+    <b className='párrafo2'>{`"Intermedio";`}</b>
     
     </div>
   )

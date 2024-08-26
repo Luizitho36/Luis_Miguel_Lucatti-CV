@@ -1,0 +1,91 @@
+.divPrincipalPages {
+  font-size: 20px;
+  color: rgb(234, 226, 243);
+  text-align: center;
+  margin: auto;
+  max-width: 85%;
+  box-sizing: border-box;
+  border: 1px solid rgb(161, 93, 93);
+}
+
+.título {
+  background-color: rgb(52, 46, 46);
+  color: rgb(215, 230, 217);
+  font-size: 20px;
+  padding: 2px;
+  margin: 3px;
+}
+
+.párrafo1, .párrafo2, .variable{
+  background-color: rgb(18, 3, 18);
+  font-size: 17px;
+}
+
+.párrafo1 {
+  color: rgb(234, 226, 243);
+}
+
+.párrafo2 {
+  color: rgb(245, 234, 116);
+}
+
+.variable{
+    color: rgb(150, 103, 41);
+}
+
+.name{
+  font-family: 'Rock Salt';
+}
+
+.sidebar {
+  float: left;
+  margin: 0 auto;
+  height: auto;
+  padding: 0.3%;
+}
+
+#homeId{
+margin: auto;
+  width: 48%;
+  height: auto;
+}
+
+.imageOfMe{
+  height: 170px;
+  padding: 0px;
+}
+
+#about_me{
+  font-family: 'Rock Salt';
+  font-size: 22px;
+  margin: 30px;
+}
+
+@media screen and (max-width: 1635px) {
+  #homeId{
+      width: 55%;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+  #homeId{
+    width: 85%;
+  }
+
+  .imageOfMe{
+    height: 135px;
+    padding: 0.5px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .divPrincipalPages {
+    max-width: 95%;
+    width: 100%;
+  }
+
+  #about_me{
+    font-size: 13px
+  }
+}

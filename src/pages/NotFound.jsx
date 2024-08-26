@@ -1,8 +1,8 @@
-import "./notFound.css";
+import "./cssStyle.css";
 
 function NotFound() {
   return (
-    <div className="divPrincipalNotfound">No se encontró la página</div>
+    <div className="divPrincipalPages">No se encontró la página</div>
   )
 }
 

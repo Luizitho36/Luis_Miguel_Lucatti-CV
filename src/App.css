@@ -2,11 +2,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-image: url("./img/wallpaper.jpg");
-  width: auto;
-  margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-  font-size: 15px;
   color: rgb(234, 226, 243);
 }
 

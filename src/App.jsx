@@ -21,6 +21,7 @@ function App() {
       <div className="App">
 
         <Header />
+        
         <Nav />
 
         <Routes>

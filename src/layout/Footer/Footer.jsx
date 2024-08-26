@@ -1,7 +1,8 @@
 import "./footer.css";
 import LinkedIn from '../../img/Footer/linkedin.png';
 import GitHub from '../../img/Footer/github.png';
-import MortalKombat from '../../img/Footer/mortal-kombat.png';
+// import MortalKombat from '../../img/Footer/mortal-kombat.png';
+import Pint_Arte from '../../img/Footer/pint-Arte.png';
 
 function Footer() {
   return (
@@ -14,8 +15,8 @@ function Footer() {
         <img src={LinkedIn} className="icons"/>
         </a>
 
-        <a href="https://mortal-kombat-page.vercel.app/" target='_blank'>
-          <img src={MortalKombat} className="icons"/>
+        <a href="https://luizitho36.github.io/Pint.-Arte_Terapia/" target='_blank'>
+          <img src={Pint_Arte} className="icons"/>
         </a>
 				
         <a href="https://github.com/Luizitho36" target='_blank'>

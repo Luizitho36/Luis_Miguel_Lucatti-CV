@@ -4,9 +4,6 @@ import "./nav.css";
 function Nav() {
   return (
     <div className="divPrincipalNav">
-      <a href="#" id="menu-icono">
-        <i className="bi bi-card-list"></i>
-      </a>
 
       <ul className="ul">
         <NavLink to="/" className="link" activeClassName="active">
